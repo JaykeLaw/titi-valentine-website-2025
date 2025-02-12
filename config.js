@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "I know we have bumped heads so much anita since we first met. And sometimes it really felt like the odds were against us. But I couldn't do any of this without you. And you've always my light at the end of the tunnel. I want this to work anita, and im gonna make it happen as i can make you happy.",
+        title: "I know we have bumped heads so much anita since we first met. And sometimes it really felt like the odds were against us. But I couldn't do any of this without you. And you've always my light at the end of the tunnel. I want this to work anita, and im gonna make it happen as long as i can make you happy.",
         message: "I know how lucky I am, I love you",
         emojis: "🌷🌹❤️"  // These will bounce around
     },
