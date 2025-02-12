@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "This February 14th, 2025, Anita Lor, would you do me the biggest favor of being mine?", // The big question!
+            text: "This Valentine's day, Anita Lor, would you do me the biggest favor of being mine?", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No 🧊"                                                 // Text for "No" button
         }
@@ -79,8 +79,8 @@ const CONFIG = {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
         musicUrl: "https://res.cloudinary.com/dcpdfvofq/video/upload/v1739172011/BAD_BUNNY_-_KETU_TeCR%C3%89_LetraLyrics_DeB%C3%8D_TiRAR_M%C3%A1S_FOToS_jw0k9f.mp3", // Music streaming URL
-        startText: "🎵 Sueltalo DJ",        // Button text to start music
-        stopText: "🔇 Paralo Ahi",         // Button text to stop music
+        startText: "🎵 Play",        // Button text to start music
+        stopText: "🔇 STOP ",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
     }
 };
