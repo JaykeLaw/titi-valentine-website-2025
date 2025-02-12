@@ -5,11 +5,11 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Luchi (Baby)",
+    valentineName: "Anita (Baby)",
 
     // The title that appears in the browser tab
-    // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Might I Have The Immense Pleasure Of Calling You My Valentine? 💝",
+    // You can use emojis! 🛌 💖 💗 🛌 💞 💕
+    pageTitle: "I love you Anita 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -24,16 +24,16 @@ const CONFIG = {
         first: {
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No, your mother hasn’t paid me this month",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you more than anything my Italian boy! ❤️"           // Secret hover message
+            noBtn: "No, moch is the love of my life",                                               // Text for "No" button
+            secretAnswer: "I don't like you, I love you ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
+            startText: "A bit",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "This February 14th, 2025, Luisana Caballero, would you do me the honor of allowing me to call you my Valentine this year? 🌹🌼🌺", // The big question!
+            text: "This February 14th, 2025, Anita Lor, would you do me the biggest favor of being mine?", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -42,16 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW YOUU love MEE that much?? 🥹❤️",  // Shows when they go past 5000%
-        high: "Forever and ever, To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And much more, let's get married! 🥰"                           // Shows when they go past 100%
+        extreme: "You mean the world to me baby",  // Shows when they go past 5000%
+        high: "You're willing to give up league for me?",              // Shows when they go past 1000%
+        normal: "More than sassy fries?? 🍟 "                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Ohhh siii! I'm the luckiest man in the world! 🎉💝💖💝💓",
-        message: "I love you so much, baby. Thank you for being my Valentine once again, and I hope it stays this way for AT LEAST the following 1,000 years, deal??",
-        emojis: "💋❤️😻💋❤️😻💋❤️"  // These will bounce around
+        title: "I know how lucky I am",
+        message: "I know we have bumped heads so much anita since we first met. And sometimes it really felt like the odds were against us. But I couldn't do any of this without you. And you've always my light at the end of the tunnel. I want this to work anita, and im gonna make it happen as long as you're with me.",
+        emojis: "🌷🌹❤️"  // These will bounce around
     },
 
     // Color scheme for the website
