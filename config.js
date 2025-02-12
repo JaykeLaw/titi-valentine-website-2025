@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Anita (Baby)",
+    valentineName: "Anita (Nini)",
 
     // The title that appears in the browser tab
     // You can use emojis! 🛌 💖 💗 🛌 💞 💕
@@ -35,7 +35,7 @@ const CONFIG = {
         third: {
             text: "This February 14th, 2025, Anita Lor, would you do me the biggest favor of being mine?", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            noBtn: "No 🧊"                                                 // Text for "No" button
         }
     },
 
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "I know how lucky I am",
-        message: "I know we have bumped heads so much anita since we first met. And sometimes it really felt like the odds were against us. But I couldn't do any of this without you. And you've always my light at the end of the tunnel. I want this to work anita, and im gonna make it happen as long as you're with me.",
+        title: "I know we have bumped heads so much anita since we first met. And sometimes it really felt like the odds were against us. But I couldn't do any of this without you. And you've always my light at the end of the tunnel. I want this to work anita, and im gonna make it happen as i can make you happy.",
+        message: "I know how lucky I am, I love you",
         emojis: "🌷🌹❤️"  // These will bounce around
     },
 
