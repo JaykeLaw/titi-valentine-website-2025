@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dcpdfvofq/video/upload/v1739172011/BAD_BUNNY_-_KETU_TeCR%C3%89_LetraLyrics_DeB%C3%8D_TiRAR_M%C3%A1S_FOToS_jw0k9f.mp3", // Music streaming URL
+        musicUrl: "", // Music streaming URL
         startText: "🎵 Play",        // Button text to start music
         stopText: "🔇 STOP ",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
